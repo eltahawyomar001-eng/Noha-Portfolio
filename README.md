@@ -175,10 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Noha** - Web Designer
 
-- 📧 Email: hello@noha.design
-- 🌐 Portfolio: [noha.design](https://noha.design)
-- 💼 LinkedIn: [Noha](#)
-- 🎨 Dribbble: [Noha](#)
+Contact information coming soon.
 
 ---
 
