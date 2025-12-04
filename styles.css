@@ -333,6 +333,18 @@ a:hover {
     overflow: hidden;
 }
 
+.hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: sepia(20%) saturate(85%) contrast(95%);
+    transition: filter 0.3s ease;
+}
+
+.hero-image:hover {
+    filter: sepia(10%) saturate(100%) contrast(100%);
+}
+
 .hero-image-placeholder {
     display: flex;
     align-items: center;
@@ -469,6 +481,19 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
+}
+
+.polaroid-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: sepia(25%) saturate(80%) contrast(95%);
+    transition: filter 0.3s ease;
+}
+
+.polaroid:hover .polaroid-image {
+    filter: sepia(10%) saturate(100%) contrast(100%);
 }
 
 .polaroid-icon {
